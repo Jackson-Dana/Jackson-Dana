@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋, I'm Jackson, data scientist 
 
-<!--
-**Jackson-Dana/Jackson-Dana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist/machine learning engineer with a background in biology. I'm passionate about data driven solutions to business or research problems and I'm always looking for new challenges and opportunities to learn.
 
-Here are some ideas to get you started:
+## Fun Facts About Me
+- Fact 1
+- Fact 2
+- Fact 3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open for Projects
+I'm open to participating in outsourcing projects. If you have a project that you think would be a good fit for my skills, please feel free to reach out!
+
+## Tech Skills
+- Skill 1
+- Skill 2
+- Skill 3
+
+## Links
+- Portfolio
+- Resume
+- LinkedIn
+
+
