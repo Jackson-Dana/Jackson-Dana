@@ -3,9 +3,9 @@
 Biology major turned Data Scientist with a passion for leveraging data-driven solutions in the field of AI. Experienced in machine learning, data analysis, and problem-solving, with a track record of driving successful projects. Continually learning and evolving to stay at the forefront of technological advancements.
 
 ## Fun Facts About Me
-- Obsessed with the advancement of machine learning and how it can be used in business, in society in general, and how it might reshape our economic model. Keeping up advancements takes up much of my time in the mornings.
+- Obsessed with the advancement of machine learning and how it can be used in business, in society in general, and how it might reshape our economic model. Keeping up advancements takes up much time in the mornings.
 - Had a difficult time selecting a major due to being interested in many things, but love diving in and learning as much as possible on what is currently necessary. 
-- Love to read, write, hike spend time in nature. 
+- Love to read, write, hike spend time in nature. Was president of the Japanese Culture Club during university. 
 
 ## Open for Projects
 I'm open to participating in outsourcing projects. If you have a project that you think would be a good fit for my skills, please feel free to reach out!
