@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jackson, data scientist 
+# Hi There 👋, I'm Jackson, Data Scientist 
 
 Biology major turned Data Scientist with a passion for leveraging data-driven solutions in the field of AI. Experienced in machine learning, data analysis, and problem-solving, with a track record of driving successful projects. Continually learning and evolving to stay at the forefront of technological advancements.
 
