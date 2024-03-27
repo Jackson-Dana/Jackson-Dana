@@ -20,7 +20,7 @@ I'm open to participating in outsourcing projects. If you have a project that yo
 ## Links
 - [Portfolio](https://github.com/Jackson-Dana/Data_projects_TripleTen)
 - Resume
-- [LinkedIn\](http://www.linkedin.com/in/jackson-dana-a9399928a)
+- [LinkedIn](http://www.linkedin.com/in/jackson-dana-a9399928a)
 
 
 
