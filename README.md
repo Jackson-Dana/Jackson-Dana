@@ -14,7 +14,7 @@ I'm open to participating in outsourcing projects. If you have a project that yo
 - Machine Learning (scikit-learn, NLTK, TensorFlow)
 - Python (Pandas, NumPy, Beautiful Soup)
 - Skill Data Visualization (Matplotlib, Plotly, Tableau)
-- Basic HTML/CSS/Javascript
+- Basic SQL/HTML/CSS/Javascript
 - Statistics
 
 ## Links
